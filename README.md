@@ -74,4 +74,4 @@ The system is deployed as a single, field-deployable unit via **Docker Compose**
 ```
 5. **Research and References**
    NASA C-MAPSS-1 Turbofan Engine Degradation Dataset: https://www.kaggle.com/datasets/bishals098/nasa-turbofan-engine-degradation-simulation
-   
+   PDF attached is taken from the dataset itself.
