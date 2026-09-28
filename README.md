@@ -72,5 +72,6 @@ The system is deployed as a single, field-deployable unit via **Docker Compose**
     │   ├── components/        # Sensor charts, GenAI Report Cards
     │   └── mapbox/            # Geospatial routing and health markers
 ```
-5. **Access the Dashboard:**
-   Navigate to `http://localhost:5173` to view the live Digital Twin and Mapbox routing.
+5. **Research and References**
+   NASA C-MAPSS-1 Turbofan Engine Degradation Dataset: https://www.kaggle.com/datasets/bishals098/nasa-turbofan-engine-degradation-simulation
+   
